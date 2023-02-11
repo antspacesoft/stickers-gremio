@@ -1,0 +1,108 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.antspace.stickers.gremio",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "serieb2022j38",
+      "name": "vs Brusque",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "serieb2022j36",
+      "name": "vs Nautico",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "serieb2022j33",
+      "name": "vs CSA",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "serieb2022j31",
+      "name": "vs Sport Recife",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "serieb2022j29",
+      "name": "vs Vasco",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "serieb2022j28",
+      "name": "vs Vila Nova FC",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "serieb2022j23",
+      "name": "vs Operário",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "serieb2022j22",
+      "name": "vs Guarani",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "serieb2022j20",
+      "name": "vs Ponte Preta",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "serieb2022j18",
+      "name": "vs Tombense",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "serieb2022j17",
+      "name": "vs Nautico",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "serieb2022j15",
+      "name": "vs Londrina",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "serieb2022j13",
+      "name": "vs Sampaio Correa",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "serieb2022j11",
+      "name": "vs Novorizontino",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "serieb2022j5",
+      "name": "vs CRB",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "serieb2022j4",
+      "name": "vs Operario",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "serieb2022j3",
+      "name": "vs Guarani",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    }
+  ]
+}

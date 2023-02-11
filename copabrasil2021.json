@@ -1,0 +1,24 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.antspace.stickers.gremio",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "copabrasil2021f8v",
+      "name": "vs Vitoria (2)",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "copabrasil2021f8i",
+      "name": "vs Vitoria (1)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "copabrasil2021f16",
+      "name": "vs Brasiliense",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.antspace.stickers.gremio",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "serieA5",
+      "name": "Pack Serie A (5)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "serieA4",
+      "name": "Pack Serie A (4)",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "serieA3",
+      "name": "Pack Serie A (3)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "serieA2",
+      "name": "Pack Serie A (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "serieA1",
+      "name": "Pack Serie A (1)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    }
+  ]
+}
