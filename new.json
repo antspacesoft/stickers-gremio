@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "gaucho2023f2",
+      "name": "vs SER Caxias",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
       "identifier": "gaucho2023s2",
       "name": "vs Ypiranga",
       "animated_sticker_pack": false,
@@ -21,7 +27,7 @@
       "stickers": "15"
     },    
     {
-      "identifier": "gaucho2023f10",
+      "identifier": "gaucho2023j10",
       "name": "vs Internacional",
       "animated_sticker_pack": false,
       "stickers": "20"
@@ -33,49 +39,49 @@
       "stickers": "30"
     },
     {
-      "identifier": "gaucho2023f9",
+      "identifier": "gaucho2023j9",
       "name": "vs Novo Hamburgo",
       "animated_sticker_pack": false,
       "stickers": "22"
     },
     {
-      "identifier": "gaucho2023f7",
+      "identifier": "gaucho2023j7",
       "name": "vs Avenida",
       "animated_sticker_pack": false,
       "stickers": "15"
     },
     {
-      "identifier": "gaucho2023f6",
+      "identifier": "gaucho2023j6",
       "name": "vs Juventude",
       "animated_sticker_pack": false,
       "stickers": "21"
     },
     {
-      "identifier": "gaucho2023f5",
+      "identifier": "gaucho2023j5",
       "name": "vs Aimore",
       "animated_sticker_pack": false,
       "stickers": "28"
     },
     {
-      "identifier": "gaucho2023f4",
+      "identifier": "gaucho2023j4",
       "name": "vs Esportivo",
       "animated_sticker_pack": false,
       "stickers": "29"
     },
     {
-      "identifier": "gaucho2023f3",
+      "identifier": "gaucho2023j3",
       "name": "vs São José",
       "animated_sticker_pack": false,
       "stickers": "23"
     },
     {
-      "identifier": "gaucho2023f2",
+      "identifier": "gaucho2023j2",
       "name": "vs Brasil de Pelotas",
       "animated_sticker_pack": false,
       "stickers": "16"
     },
     {
-      "identifier": "gaucho2023f1",
+      "identifier": "gaucho2023j1",
       "name": "vs SER Caxias",
       "animated_sticker_pack": false,
       "stickers": "20"
