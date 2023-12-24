@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "natal2",
+      "name": "Feliz Natal (2)",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "natal",
+      "name": "Feliz Natal (1)",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
       "identifier": "recopagaucha2023",
       "name": "Recopa Gaúcha 2023",
       "animated_sticker_pack": false,
@@ -31,18 +43,6 @@
       "name": "Ano Novo 2021",
       "animated_sticker_pack": false,
       "stickers": "12"
-    },
-    {
-      "identifier": "natal2",
-      "name": "Feliz Natal (2)",
-      "animated_sticker_pack": false,
-      "stickers": "10"
-    },
-    {
-      "identifier": "natal",
-      "name": "Feliz Natal (1)",
-      "animated_sticker_pack": false,
-      "stickers": "9"
     },
     {
       "identifier": "gol2021",
