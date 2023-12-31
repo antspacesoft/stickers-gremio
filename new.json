@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "anonovo2022",
+      "name": "Ano Novo (2)",
+      "animated_sticker_pack": false,
+      "stickers": "8"
+    },
+    {
+      "identifier": "anonovo",
+      "name": "Ano Novo (1)",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
       "identifier": "natal2",
       "name": "Feliz Natal (2)",
       "animated_sticker_pack": false,
@@ -647,18 +659,6 @@
     {
       "identifier": "gaucho2022j1",
       "name": "vs SER Caxias",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "anonovo2022",
-      "name": "Ano Novo 2022",
-      "animated_sticker_pack": false,
-      "stickers": "8"
-    },
-    {
-      "identifier": "anonovo",
-      "name": "Ano Novo 2021",
       "animated_sticker_pack": false,
       "stickers": "12"
     },
