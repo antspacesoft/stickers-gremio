@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"brasileirao2024j20a",
+         "name":"vs Athletico-PR (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"brasileirao2024j20b",
+         "name":"vs Athletico-PR (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"copaamerica2024fg3",
          "name":"vs Colombia",
          "animated_sticker_pack":false,
