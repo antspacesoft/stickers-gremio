@@ -3,12 +3,6 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"gaucho2026f7",
-         "name":"vs Vitoria",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
          "identifier":"gaucho2026f1",
          "name":"vs Inter",
          "animated_sticker_pack":false,
